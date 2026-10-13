@@ -2,6 +2,13 @@
 
 **Last Updated: August 26, 2026**
 
+🌐 **Language / 语言:** [English] | [中文 (简体) / Chinese (Simplified)](../cn/)
+
+---
+
+This Privacy Policy governs the data processing practices of the mobile application "Veras: Polygraph and lie detector" (hereinafter referred to as the "Application").
+
+
 This Privacy Policy governs the data processing practices of the mobile application **"Veras: Polygraph and lie detector"** (hereinafter referred to as the "Application"). 
 
 Our primary guiding principle is absolute data privacy and security. The Application is designed as a **100% offline, standalone security and analytical tool**. It does not collect, transmit, share, or store any user data on external servers. All operations are executed entirely on your local device.
